@@ -1,0 +1,17 @@
+C:\GymCodeLife\Capa.Entidades\bin\Debug\Capa.Entidades.dll
+C:\GymCodeLife\Capa.Entidades\bin\Debug\Capa.Entidades.pdb
+C:\GymCodeLife\Capa.Entidades\obj\Debug\Capa.Entidades.csproj.CoreCompileInputs.cache
+C:\GymCodeLife\Capa.Entidades\obj\Debug\Capa.Entidades.dll
+C:\GymCodeLife\Capa.Entidades\obj\Debug\Capa.Entidades.pdb
+C:\GymForce\Capa.Entidades\bin\Debug\Capa.Entidades.dll
+C:\GymForce\Capa.Entidades\bin\Debug\Capa.Entidades.pdb
+C:\GymForce\Capa.Entidades\obj\Debug\Capa.Entidades.csproj.CoreCompileInputs.cache
+C:\GymForce\Capa.Entidades\obj\Debug\Capa.Entidades.dll
+C:\GymForce\Capa.Entidades\obj\Debug\Capa.Entidades.pdb
+C:\GymForce\Capa.Entidades\obj\Debug\Capa.Entidades.csproj.AssemblyReference.cache
+C:\proyectos\prograIII\GymForce\GymForce\Capa.Entidades\bin\Debug\Capa.Entidades.dll
+C:\proyectos\prograIII\GymForce\GymForce\Capa.Entidades\bin\Debug\Capa.Entidades.pdb
+C:\proyectos\prograIII\GymForce\GymForce\Capa.Entidades\obj\Debug\Capa.Entidades.csproj.AssemblyReference.cache
+C:\proyectos\prograIII\GymForce\GymForce\Capa.Entidades\obj\Debug\Capa.Entidades.csproj.CoreCompileInputs.cache
+C:\proyectos\prograIII\GymForce\GymForce\Capa.Entidades\obj\Debug\Capa.Entidades.dll
+C:\proyectos\prograIII\GymForce\GymForce\Capa.Entidades\obj\Debug\Capa.Entidades.pdb
